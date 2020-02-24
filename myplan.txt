@@ -1,0 +1,152 @@
+1.
+Task: Display an empty board.
+Estimated Time: 3 hours
+Target Deadline: Feb 8
+Actual Time: 2 hours
+Actual Delivery: Feb 8
+Commit ID: d4f5d3e6f42503e82c6b8e52efbab673357b3837
+Comments: Not as hard as I previously thought. Just create a class "Board". But this needs index translation, which takes some time to make it right.
+
+2.
+Task: Display two boards side-by-side.
+Estimated Time: 1 hour
+Target Deadline: Feb 8
+Actual Time: 1 hour
+Actual Delivery: Feb 8
+Commit ID: d4f5d3e6f42503e82c6b8e52efbab673357b3837
+Comments: Add another class "PlayerviewBoard" for displaying boards from player's view. This takes me some time to figure out the relationship between different boards.
+
+3.
+Task: Let the player able to check a square and change the board status
+Estimated Time: 1 hour
+Target Deadline: Feb 9
+Actual Time: 30 min
+Actual Delivery: Feb 8
+Commit ID: d4f5d3e6f42503e82c6b8e52efbab673357b3837
+Comments: Add a method in "PlayerViewBoard" to realize it. This also changes the other's board when the guess is correct.
+
+4.
+Task: Write one class per stack for placing.
+Estimated Time: 1 hour
+Target Deadline: Feb 9
+Actual Time: 40 min
+Actual Delivery: Feb 8
+Commit ID:
+Comments:
+
+5.
+Task: Make stacks able to be placed on the board. 
+Estimated Time: 1 hour
+Target Deadline: Feb 9
+Actual Time: 1 hour
+Actual Delivery: Feb 9
+Commit ID:
+Comments: This takes some time to check the input validity.
+
+6.
+Task: Make players able to set up boards on their selves.
+Estimated Time: 3 hours
+Target Deadline: Feb 10
+Actual Time: 2 hours
+Actual Delivery: Feb 9
+Commit ID:
+Comments: Write another class to do this. However, this time I need to catch exceptions and keep the game going.
+
+7.
+Task: Make players able to play in turn.
+Estimated Time: 1 hour
+Target Deadline: Feb 11
+Actual Time: 1 hour
+Actual Delivery: Feb 9
+Commit ID:
+Comments: Write another class to do this too.
+
+8.
+Task: Make players able to play the game.
+Estimated Time: 3 hours
+Target Deadline: Feb 11
+Actual Time: 1 hours
+Actual Delivery: Feb 9
+Commit ID:
+Comments: Gather all the pieces together did not take that much time.
+
+9.
+Task: Test version 1. Make this game actually playable. (Commit before proceeding to version 2!!!)
+Estimated Time: 5 hours
+Target Deadline: Feb 12
+Actual Time: 2 hours
+Actual Delivery: Feb 9
+Commit ID:
+Comments: There are small bugs, but not so hard to fix. BTW, I do more abstraction to make the code cleaner and stick to its own job.
+
+10.
+Task: Change stacks according to version 2 requirements.
+Estimated Time: 2 hours
+Target Deadline: Feb 13
+Actual Time:
+Actual Delivery:
+Commit ID:
+Comments:
+
+11.
+Task: Add stack moving function.
+Estimated Time: 1 hour
+Target Deadline: Feb 14
+Actual Time:
+Actual Delivery:
+Commit ID:
+Comments:
+
+12.
+Task: Add sonar scanning.
+Estimated Time: 1 hour
+Target Deadline: Feb 14
+Actual Time:
+Actual Delivery:
+Commit ID:
+Comments:
+
+13.
+Task: Add a computer rival.
+Estimated Time: 5 hours
+Target Deadline: Feb 16
+Actual Time:
+Actual Delivery:
+Commit ID:
+Comments:
+
+14.
+Task: Test version 2. Make this game playable.
+Estimated Time:
+Target Deadline:
+Actual Time:
+Actual Delivery:
+Commit ID:
+Comments:
+
+15.
+Task:
+Estimated Time:
+Target Deadline:
+Actual Time:
+Actual Delivery:
+Commit ID:
+Comments:
+
+16.
+Task:
+Estimated Time:
+Target Deadline:
+Actual Time:
+Actual Delivery:
+Commit ID:
+Comments:
+
+17.
+Task:
+Estimated Time:
+Target Deadline:
+Actual Time:
+Actual Delivery:
+Commit ID:
+Comments:
