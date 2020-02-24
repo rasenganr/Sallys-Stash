@@ -8,11 +8,11 @@
 &emsp;Each player is using the same device to play.<br>
 <br>
 ## Steps
-&emsp;1. Choose if either one or both players are computers.
+&emsp;1. Choose if either one or both players are computers.<br>
 &emsp;2. Two players place their stacks in their own boards.<br>
 &emsp;&emsp;Green & purple stacks can be placed horizontally/vertically.<br>
 &emsp;&emsp;Red & blue stacks can be placed in up/down/right/left order.<br>
-&emsp;3. Play begins
+&emsp;3. Play begins.<br>
 &emsp;&emsp;Each player can choose one of the following movements:<br>
 &emsp;&emsp;&emsp;- Guess the other's stack positions.<br>
 &emsp;&emsp;&emsp;- Move a stack of himself.<br>
