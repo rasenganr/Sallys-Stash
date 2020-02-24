@@ -1,7 +1,19 @@
-Version 1:<br>
-Commit ID: e58325150a802ab2f04983404984dd8e33b1c5e2<br>
-Comment: Version 1 with tests<br>
+# Sally's Stash
+## Introduction
+&emsp;Sally is a special squirrel who, in addition to burying acorns for the winter, likes to bury gold.<br>
+&emsp;In this game, two players will hide gold stacks that come in different sizes in a grid-like layout.<br>
+&emsp;As a result, gold can be “buried” using the coordinates in the grid (e.g., [B1-B3], or [D5-G5]).<br>
+&emsp;Sally’s stashes come in stacks specific sizes and colors.<br>
+&emsp;Both players (player A and player B) have the same stash to hide at the beginning of the game.<br>
+&emsp;Each player is using the same device to play.<br>
 <br>
-Version 2:<br>
-Commit ID: 0a00c2d484e9360a990045f7071a811a5db06a9d<br>
-Comment: 100% test coverage<br>
+## Steps
+&emsp;1. Choose if either one or both players are computers.
+&emsp;2. Two players place their stacks in their own boards.<br>
+&emsp;&emsp;Green & purple stacks can be placed horizontally/vertically.<br>
+&emsp;&emsp;Red & blue stacks can be placed in up/down/right/left order.<br>
+&emsp;3. Play begins
+&emsp;&emsp;Each player can choose one of the following movements:<br>
+&emsp;&emsp;&emsp;- Guess the other's stack positions.<br>
+&emsp;&emsp;&emsp;- Move a stack of himself.<br>
+&emsp;&emsp;&emsp;- Use a sonar to check the other's board.<br>
